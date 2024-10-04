@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @josinko
-- 👀 I’m interested in WPF, XAML, MVVM
+- 👀 I’m interested in Avalonia, WPF, XAML, MVVM
 - 🌱 I’m currently learning Cloud, microsrvices
 - 💞️ I’m looking to collaborate on WPF apps
 - 📫 How to reach me @
